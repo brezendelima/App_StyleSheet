@@ -23,7 +23,7 @@ function App() {
         }}>
           <Image source={cabImg1}
             style={{ width: 50, height: 50 }} />
-          <Text style={{ paddingLeft: 15 }}>Nome Sobrenome</Text>
+          <Text style={{ paddingLeft: 15 }}>Bruno Rezende</Text>
         </View>
         <Image source={cabImg2}
           style={{ width: 18, height: 24, resizeMode: "contain" }} />
